@@ -6,7 +6,7 @@
 
 ## 课程内容
 
-### 第一课:introduce
+### 第一课:[lab1-introduction](doc/mit/lab1-introduction.md)
 
 **前置理论及论文基础**
 
@@ -28,11 +28,7 @@
 
 [google:mapreduce](paper/google/mapreduce.md)
 
-**课程翻译**
-
-[lab1-introduction](doc/mit/lab1-introduction.md)
-
-### 第二课:gfs文件系统
+### 第二课:[lab2-gfs文件系统](doc/mit/lab2-gfs.md)
 
 **前置理论及论文基础**
 

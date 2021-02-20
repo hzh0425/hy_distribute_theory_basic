@@ -4,11 +4,11 @@
 
 官网资源:http://nil.csail.mit.edu/6.824/2020/schedule.html
 
-## 课程翻译
+## 课程内容
 
+### 第一课
 
-
-## 理论基础
+**前置理论及论文基础**
 
 - **cap**
 
@@ -23,6 +23,18 @@
 2.[Base: An Acid Alternative](paper/base/base-danPritichett.md)
 
 3.[分布式事务简介](blog/transaction/type.md)
+
+- **mapReduce**
+
+[google:mapreduce](paper/google/mapreduce.md)
+
+**课程翻译**
+
+[lab1-introduction](doc/mit/lab1-introduction.md)
+
+
+
+
 
 # 2.论文借鉴
 
@@ -71,8 +83,6 @@ B)harvest ,measures the fraction of the data reflected in the response.感觉说
 [https://lamport.azurewebsites.net/pubs/lamport-how-to-make.pdf](https://link.zhihu.com/?target=https%3A//lamport.azurewebsites.net/pubs/lamport-how-to-make.pdf) lamport大神不用过多的介绍，读他的论文唯一的感受就是智商的差别吧
 
 [https://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf](https://link.zhihu.com/?target=https%3A//cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf) 也是线性一致性的文章 作者在cmu发表的
-
-
 
 - **eventual consistency**
 

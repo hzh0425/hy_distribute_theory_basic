@@ -6,7 +6,7 @@
 
 ## 课程内容
 
-### 第一课
+### 第一课:introduce
 
 **前置理论及论文基础**
 
@@ -32,7 +32,13 @@
 
 [lab1-introduction](doc/mit/lab1-introduction.md)
 
+### 第二课:gfs文件系统
 
+**前置理论及论文基础**
+
+- gfs论文
+
+[gfs](paper/google/gfs.md)
 
 
 

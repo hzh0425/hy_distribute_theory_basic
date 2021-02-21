@@ -34,9 +34,13 @@
 
 - gfs论文
 
-[gfs](paper/google/gfs.md)
+[google:gfs](paper/google/gfs.md)
 
+### 第三课:[lab3-VMware FT](doc/mit/lab3-VMware FT.md)
 
+**前置理论及论文基础**
+
+- [VMware FT](https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf)
 
 # 2.论文借鉴
 

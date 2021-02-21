@@ -42,6 +42,40 @@
 
 - [VMware FT](https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf)
 
+### 第四课:[lab4-raft(一)]
+
+**前置理论**
+
+raft论文前五节内容
+
+- [raft](paper/raft/raft-cn.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 2.论文借鉴
 
 **概览文章**

@@ -42,7 +42,7 @@
 
 - [VMware FT](https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf)
 
-### 第四课:[lab4-raft(一)]
+### 第四课:[lab4-raft(一)](doc/mit/lab4-raft.md)
 
 **前置理论**
 
@@ -50,13 +50,21 @@ raft论文前五节内容
 
 - [raft](paper/raft/raft-cn.md)
 
+### 第五课:[lab5-raft(二)](doc/mit/lab5-raft2.md)
 
+**前置理论**
 
+raft论文后续内容
 
+- [raft](paper/raft/raft-cn.md)
 
+## 第六课:[lab6-zookeeper](doc/mit/lab6-zookeeper.md)
 
+**前置理论**
 
+zookeeper论文:
 
+- [zookeeper](https://pdos.csail.mit.edu/6.824/papers/zookeeper.pdf)
 
 
 

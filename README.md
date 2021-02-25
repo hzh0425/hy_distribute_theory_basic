@@ -58,7 +58,7 @@ raft论文后续内容
 
 - [raft](paper/raft/raft-cn.md)
 
-## 第六课:[lab6-zookeeper](doc/mit/lab6-zookeeper.md)
+### 第六课:[lab6-zookeeper](doc/mit/lab6-zookeeper.md)
 
 **前置理论**
 
@@ -66,7 +66,7 @@ zookeeper论文:
 
 - [zookeeper](https://pdos.csail.mit.edu/6.824/papers/zookeeper.pdf)
 
-## 第七课:[lab7-CRAQ](doc/mit/lab7-CRAQ.md)
+### 第七课:[lab7-CRAQ](doc/mit/lab7-CRAQ.md)
 
 **前置理论**
 
@@ -74,7 +74,7 @@ CRAQ论文:
 
 - [CRAQ](http://nil.csail.mit.edu/6.824/2020/papers/craq.pdf)
 
-
+### 第八课:[lab8-Aurora](doc/mit/lab8-Aurora.md)
 
 
 

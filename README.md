@@ -66,9 +66,13 @@ zookeeper论文:
 
 - [zookeeper](https://pdos.csail.mit.edu/6.824/papers/zookeeper.pdf)
 
+## 第七课:[lab7-CRAQ](doc/mit/lab7-CRAQ.md)
 
+**前置理论**
 
+CRAQ论文:
 
+- [CRAQ](http://nil.csail.mit.edu/6.824/2020/papers/craq.pdf)
 
 
 
